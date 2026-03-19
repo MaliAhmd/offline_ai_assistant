@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+beautifulsoup4
+requests
+faiss-cpu
+sentence-transformers
+langchain
+langchain-community
+llama-cpp-python
+tqdm
