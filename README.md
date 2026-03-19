@@ -55,7 +55,7 @@ Offline_ai_assistant/
 ### 1️⃣ Clone Repository
 
 ```
-git clone <your-repo-url>
+git clone <https://github.com/MaliAhmd/offline_ai_assistant.git>
 cd Offline_ai_assistant
 ```
 
